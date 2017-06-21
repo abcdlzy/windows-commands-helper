@@ -15,5 +15,10 @@ namespace windows_commands_helper
         {
             InitializeComponent();
         }
+
+        private void tbSearch_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
