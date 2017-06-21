@@ -88,6 +88,7 @@
             this.tsmiReload.Name = "tsmiReload";
             this.tsmiReload.Size = new System.Drawing.Size(68, 21);
             this.tsmiReload.Text = "重新载入";
+            this.tsmiReload.Click += new System.EventHandler(this.tsmiReload_Click);
             // 
             // tsmiEdit
             // 
